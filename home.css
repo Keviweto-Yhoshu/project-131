@@ -1,0 +1,13 @@
+body{
+   background-size: cover;
+}
+.link{
+    background-color: blanchedalmond;
+    color: darkred;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 15px 15px 15px darkcyan;
+    
+}
